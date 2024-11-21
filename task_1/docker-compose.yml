@@ -2,7 +2,7 @@ services:
   task1:
     build: 
       context: .
-      dockerfile: Dockerfile.scraper
+      dockerfile: Dockerfile
     container_name: task1
     volumes:
       - ./task_1.ts:/usr/src/app/task_1.ts

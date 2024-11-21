@@ -1,0 +1,1291 @@
+Introducing AI TemplatesPricingFor BusinessSign inGet started for FreeAutomate your meeting notes using GenAINever take meeting notes again. Get transcripts, automated summaries, action items, and integrate mymeet.ai with Google Meet and ZoomGet started for Free180 minutes for freeNo credit card neededAll data is protectedAI TemplatesWe will conduct a thorough analysis of various types of meetingsAction itemsCreate a list of tasks with due dates and assigned responsibilitiesTranscriptWe'll decode the meeting, taking into account the speakers and chaptersIntegrationsWork with Zoom, Google Meet, Google Calendar and TelegramSales meetingHR interviewTeam sync+3ClientThe research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processesProblems and blockersThe need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptableSummary and next stepsProduct demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support40k+ users from various companies use our servicesHow it works?Add a meetingUpload the file in any format or invite the bot to a meeting. Connect Telegram or calendar to record every meeting automaticallyGet insightsThe processed meeting consists of a transcript divided into chapters and speakers, a selected AI report and tasks with responsibilities and deadlinesTranscriptTasksAI ReportEdit and shareRename the speakers and edit the transcript. The final report can be sent to the team by email or downloaded in the desired formatDOCXMDJSONPDFAI TemplatesProfessional AI analytics using ready-made templatesAI reports can be useful for gaining insights from interviews, assessing the performance of sales managers, and streamlining teamwork.Default meetingHR intervewSales meetingSales coachResearchTeam syncDefault meetingSample reportSuper summaryA sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.Summary of the topicsSprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and passwordAction itemsInclude all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)"It is very useful when you need to record verbal agreements, changes, ideas for content, and in general, if you want to refer back to the conversation later. It saves a lot of time and makes online communication easier"Pavel OsokinFounder minders.vcGet started for FreeTranscriptAudio & Video Transcription in 100+ languages. Powered by AIWe will convert the recording into a detailed transcript in a few minutes. Let's take into account punctuation marks, Anglicisms and complex terms. We will divide it into participants and chapters. Let's remove noises and parasitic wordsEmmanuel1:54Michael1:54Giovanni1:54Definition and division into speakersYou can specify the number of speakers when adding a meeting so that the result is more accurate你好！¡Hola!हाय!Hello!Привет!Bonjour!안녕!Hallo!こんにちは!Ciao!مرحبا!Olá!Chào!Merhaba!Hallå!Բարեւ ձեզ!Сәлем!سلام!Привіт!Tere!Здравей!Sziasztok!Γεια!Cześć!Ahoj!More than 70 languagesWe support processing in 73 languages, this does not affect the speed and quality of the resultHello!i meanuhhhbut likewell anywaysbut you knowRemove filler wordsInstantly cut all your "ums", "uhs" and other filler words. You'll save hoursSuper sonic infrastructureWe can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutesStudio soundBefore processing, we use a special algorithm to remove noise and unwanted sounds from the audio track"We jumped right into using transcription. No question about it, we had to transcribe the video because it's a must, it makes the work easier and saves time"Alyona Fassalova Product designerGet started for FreeIntegrationsIntegration with Zoom, Google Meet and other working toolsWe connect to meetings in Zoom or Google meet We can connect your Google Calendar to automatically record your meetings. We also support processing via Telegram bot.You don't need to record meetings anymoreOur bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interfaceSynced up with your calendarConnect Google Calendar so we can automatically sync with all your eventsEverything remains the same, except on TelegramTelegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members"So, I tried it out myself first, and then I brought it to work. It's pretty handy for that kind of thing, since there are a ton of meetings. Man, it's a life-saver, you know? It cuts down on all the note-taking, meeting minutes, and all that stuff."Dzis-Voinarovskii Fedor Lead Product ManagerGet started for FreeProtection in every directionProtecting user data is our priority. We use the most advanced security measures availableEncryptionThe transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithmAccess & Permissions All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyoneAutomatic & Secure Backups Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocolsTry mymeet in action today. It is Free.Get started for Free180 minutes for freeNo credit card neededAll data is protectedLet's have a conversationhello@mymeet.aiProductPricingFor businessTelegram botAPIResourcesBonus programUpdatesBlogCompanyPrivacyTerms of service©2024 mymeet.aiSelect LanguageEnglishRussian (Russia)English
+
+Introducing AI TemplatesPricingFor BusinessSign inGet started for FreeAutomate your meeting notes using GenAINever take meeting notes again. Get transcripts, automated summaries, action items, and integrate mymeet.ai with Google Meet and ZoomGet started for Free180 minutes for freeNo credit card neededAll data is protectedAI TemplatesWe will conduct a thorough analysis of various types of meetingsAction itemsCreate a list of tasks with due dates and assigned responsibilitiesTranscriptWe'll decode the meeting, taking into account the speakers and chaptersIntegrationsWork with Zoom, Google Meet, Google Calendar and TelegramSales meetingHR interviewTeam sync+3ClientThe research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processesProblems and blockersThe need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptableSummary and next stepsProduct demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support40k+ users from various companies use our servicesHow it works?Add a meetingUpload the file in any format or invite the bot to a meeting. Connect Telegram or calendar to record every meeting automaticallyGet insightsThe processed meeting consists of a transcript divided into chapters and speakers, a selected AI report and tasks with responsibilities and deadlinesTranscriptTasksAI ReportEdit and shareRename the speakers and edit the transcript. The final report can be sent to the team by email or downloaded in the desired formatDOCXMDJSONPDFAI TemplatesProfessional AI analytics using ready-made templatesAI reports can be useful for gaining insights from interviews, assessing the performance of sales managers, and streamlining teamwork.Default meetingHR intervewSales meetingSales coachResearchTeam syncDefault meetingSample reportSuper summaryA sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.Summary of the topicsSprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and passwordAction itemsInclude all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)"It is very useful when you need to record verbal agreements, changes, ideas for content, and in general, if you want to refer back to the conversation later. It saves a lot of time and makes online communication easier"Pavel OsokinFounder minders.vcGet started for FreeTranscriptAudio & Video Transcription in 100+ languages. Powered by AIWe will convert the recording into a detailed transcript in a few minutes. Let's take into account punctuation marks, Anglicisms and complex terms. We will divide it into participants and chapters. Let's remove noises and parasitic wordsEmmanuel1:54Michael1:54Giovanni1:54Definition and division into speakersYou can specify the number of speakers when adding a meeting so that the result is more accurate你好！¡Hola!हाय!Hello!Привет!Bonjour!안녕!Hallo!こんにちは!Ciao!مرحبا!Olá!Chào!Merhaba!Hallå!Բարեւ ձեզ!Сәлем!سلام!Привіт!Tere!Здравей!Sziasztok!Γεια!Cześć!Ahoj!More than 70 languagesWe support processing in 73 languages, this does not affect the speed and quality of the resultHello!i meanuhhhbut likewell anywaysbut you knowRemove filler wordsInstantly cut all your "ums", "uhs" and other filler words. You'll save hoursSuper sonic infrastructureWe can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutesStudio soundBefore processing, we use a special algorithm to remove noise and unwanted sounds from the audio track"We jumped right into using transcription. No question about it, we had to transcribe the video because it's a must, it makes the work easier and saves time"Alyona Fassalova Product designerGet started for FreeIntegrationsIntegration with Zoom, Google Meet and other working toolsWe connect to meetings in Zoom or Google meet We can connect your Google Calendar to automatically record your meetings. We also support processing via Telegram bot.You don't need to record meetings anymoreOur bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interfaceSynced up with your calendarConnect Google Calendar so we can automatically sync with all your eventsEverything remains the same, except on TelegramTelegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members"So, I tried it out myself first, and then I brought it to work. It's pretty handy for that kind of thing, since there are a ton of meetings. Man, it's a life-saver, you know? It cuts down on all the note-taking, meeting minutes, and all that stuff."Dzis-Voinarovskii Fedor Lead Product ManagerGet started for FreeProtection in every directionProtecting user data is our priority. We use the most advanced security measures availableEncryptionThe transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithmAccess & Permissions All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyoneAutomatic & Secure Backups Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocolsTry mymeet in action today. It is Free.Get started for Free180 minutes for freeNo credit card neededAll data is protectedLet's have a conversationhello@mymeet.aiProductPricingFor businessTelegram botAPIResourcesBonus programUpdatesBlogCompanyPrivacyTerms of service©2024 mymeet.aiSelect LanguageEnglishRussian (Russia)English
+
+Introducing AI TemplatesPricingFor BusinessSign inGet started for Free
+
+Introducing AI TemplatesPricingFor BusinessSign inGet started for Free
+
+Introducing AI TemplatesPricingFor BusinessSign inGet started for Free
+
+Introducing AI Templates
+
+Introducing AI Templates
+
+Introducing AI Templates
+
+Introducing AI Templates
+
+PricingFor BusinessSign inGet started for Free
+
+PricingFor BusinessSign in
+
+Pricing
+
+Pricing
+
+Pricing
+
+For Business
+
+For Business
+
+For Business
+
+Sign in
+
+Sign in
+
+Sign in
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+Automate your meeting notes using GenAINever take meeting notes again. Get transcripts, automated summaries, action items, and integrate mymeet.ai with Google Meet and ZoomGet started for Free180 minutes for freeNo credit card neededAll data is protected
+
+Automate your meeting notes using GenAINever take meeting notes again. Get transcripts, automated summaries, action items, and integrate mymeet.ai with Google Meet and Zoom
+
+Automate your meeting notes using GenAI
+
+Automate your meeting notes using GenAI
+
+Automate your meeting notes using GenAI
+
+Never take meeting notes again. Get transcripts, automated summaries, action items, and integrate mymeet.ai with Google Meet and Zoom
+
+Never take meeting notes again. Get transcripts, automated summaries, action items, and integrate mymeet.ai with Google Meet and Zoom
+
+Never take meeting notes again. Get transcripts, automated summaries, action items, and integrate mymeet.ai with Google Meet and Zoom
+
+Get started for Free180 minutes for freeNo credit card neededAll data is protected
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+180 minutes for freeNo credit card neededAll data is protected
+
+180 minutes for freeNo credit card neededAll data is protected
+
+180 minutes for freeNo credit card needed
+
+180 minutes for free
+
+180 minutes for free
+
+180 minutes for free
+
+180 minutes for free
+
+No credit card needed
+
+No credit card needed
+
+No credit card needed
+
+No credit card needed
+
+All data is protected
+
+All data is protected
+
+All data is protected
+
+All data is protected
+
+AI TemplatesWe will conduct a thorough analysis of various types of meetingsAction itemsCreate a list of tasks with due dates and assigned responsibilitiesTranscriptWe'll decode the meeting, taking into account the speakers and chaptersIntegrationsWork with Zoom, Google Meet, Google Calendar and TelegramSales meetingHR interviewTeam sync+3ClientThe research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processesProblems and blockersThe need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptableSummary and next stepsProduct demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+AI TemplatesWe will conduct a thorough analysis of various types of meetingsAction itemsCreate a list of tasks with due dates and assigned responsibilitiesTranscriptWe'll decode the meeting, taking into account the speakers and chaptersIntegrationsWork with Zoom, Google Meet, Google Calendar and TelegramSales meetingHR interviewTeam sync+3ClientThe research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processesProblems and blockersThe need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptableSummary and next stepsProduct demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+AI TemplatesWe will conduct a thorough analysis of various types of meetingsAction itemsCreate a list of tasks with due dates and assigned responsibilitiesTranscriptWe'll decode the meeting, taking into account the speakers and chaptersIntegrationsWork with Zoom, Google Meet, Google Calendar and TelegramSales meetingHR interviewTeam sync+3ClientThe research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processesProblems and blockersThe need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptableSummary and next stepsProduct demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+AI TemplatesWe will conduct a thorough analysis of various types of meetingsAction itemsCreate a list of tasks with due dates and assigned responsibilitiesTranscriptWe'll decode the meeting, taking into account the speakers and chaptersIntegrationsWork with Zoom, Google Meet, Google Calendar and Telegram
+
+AI TemplatesWe will conduct a thorough analysis of various types of meetings
+
+AI Templates
+
+AI Templates
+
+AI Templates
+
+We will conduct a thorough analysis of various types of meetings
+
+We will conduct a thorough analysis of various types of meetings
+
+Action itemsCreate a list of tasks with due dates and assigned responsibilities
+
+Action items
+
+Action items
+
+Create a list of tasks with due dates and assigned responsibilities
+
+Create a list of tasks with due dates and assigned responsibilities
+
+TranscriptWe'll decode the meeting, taking into account the speakers and chapters
+
+Transcript
+
+Transcript
+
+We'll decode the meeting, taking into account the speakers and chapters
+
+We'll decode the meeting, taking into account the speakers and chapters
+
+IntegrationsWork with Zoom, Google Meet, Google Calendar and Telegram
+
+Integrations
+
+Integrations
+
+Work with Zoom, Google Meet, Google Calendar and Telegram
+
+Work with Zoom, Google Meet, Google Calendar and Telegram
+
+Sales meetingHR interviewTeam sync+3ClientThe research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processesProblems and blockersThe need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptableSummary and next stepsProduct demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+Sales meetingHR interviewTeam sync+3ClientThe research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processesProblems and blockersThe need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptableSummary and next stepsProduct demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+Sales meetingHR interviewTeam sync+3
+
+Sales meetingHR interviewTeam sync+3
+
+Sales meeting
+
+Sales meeting
+
+Sales meeting
+
+Sales meeting
+
+HR interview
+
+HR interview
+
+HR interview
+
+HR interview
+
+Team sync
+
+Team sync
+
+Team sync
+
+Team sync
+
++3
+
++3
+
++3
+
++3
+
+ClientThe research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processes
+
+ClientThe research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processes
+
+Client
+
+Client
+
+The research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processes
+
+The research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processes
+
+The research department of the Same companyThe same — is a major software provider for companies providing a wide range of automation services The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — EmmanuelThe purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processes
+
+The research department of the Same company
+
+The same — is a major software provider for companies providing a wide range of automation services
+
+The main contact from the client side is Alex, head of the Research Experience Laboratory. External contact mymeet.ai — Emmanuel
+
+The purpose of the meeting is to discuss the possibilities of the service mymeet.ai to automate processes
+
+Problems and blockersThe need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptableSummary and next stepsProduct demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+Problems and blockersThe need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptable
+
+Problems and blockersThe need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptable
+
+Problems and blockers
+
+Problems and blockers
+
+The need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptable
+
+The need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptable
+
+The need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirementsTranscription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptable
+
+The need for integration with internal systems: Alex expressed interest in implementing the solution on the company's servers in order to ensure data security. Emmanuel confirmed that periodic updates would be made, which is in line with the client's requirements
+
+The need for integration with internal systems:
+
+Transcription quality and summary: Alex asked about how the system would function if the data were processed on local servers. Emmanuel explained that the quality might differ slightly from a cloud-based solution, but overall, it would be acceptable
+
+Transcription quality and summary:
+
+Summary and next stepsProduct demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+Summary and next stepsProduct demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+Summary and next steps
+
+Summary and next steps
+
+Product demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+Product demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+Product demonstration: Emmanuel suggested testing the product at work meetingsPilot project: We have decided to start with a small-scale project in order to assess the effectivenessDiscussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementationDeadlines: The piloting phase is expected to be completed within the next 2-3 monthsResponsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+Product demonstration: Emmanuel suggested testing the product at work meetings
+
+Product demonstration:
+
+Pilot project: We have decided to start with a small-scale project in order to assess the effectiveness
+
+Pilot project:
+
+Discussion with IT experts: Alex plans to engage with IT experts to discuss the technical details of the implementation
+
+Discussion with IT experts:
+
+Deadlines: The piloting phase is expected to be completed within the next 2-3 months
+
+Deadlines:
+
+Responsible parties: Alex will coordinate discussions with colleagues and Emmanuel will be available to answer further questions and provide support
+
+Responsible parties:
+
+40k+ users from various companies use our services
+
+40k+ users from various companies use our services
+
+40k+ users from various companies use our services
+
+40k+ users from various companies use our services
+
+How it works?
+
+How it works?
+
+How it works?
+
+How it works?
+
+Add a meetingUpload the file in any format or invite the bot to a meeting. Connect Telegram or calendar to record every meeting automaticallyGet insightsThe processed meeting consists of a transcript divided into chapters and speakers, a selected AI report and tasks with responsibilities and deadlinesTranscriptTasksAI ReportEdit and shareRename the speakers and edit the transcript. The final report can be sent to the team by email or downloaded in the desired formatDOCXMDJSONPDF
+
+Add a meetingUpload the file in any format or invite the bot to a meeting. Connect Telegram or calendar to record every meeting automatically
+
+Add a meetingUpload the file in any format or invite the bot to a meeting. Connect Telegram or calendar to record every meeting automatically
+
+Add a meetingUpload the file in any format or invite the bot to a meeting. Connect Telegram or calendar to record every meeting automatically
+
+Add a meetingUpload the file in any format or invite the bot to a meeting. Connect Telegram or calendar to record every meeting automatically
+
+Add a meeting
+
+Add a meeting
+
+Add a meeting
+
+Upload the file in any format or invite the bot to a meeting. Connect Telegram or calendar to record every meeting automatically
+
+Upload the file in any format or invite the bot to a meeting. Connect Telegram or calendar to record every meeting automatically
+
+Get insightsThe processed meeting consists of a transcript divided into chapters and speakers, a selected AI report and tasks with responsibilities and deadlinesTranscriptTasksAI Report
+
+Get insightsThe processed meeting consists of a transcript divided into chapters and speakers, a selected AI report and tasks with responsibilities and deadlinesTranscriptTasksAI Report
+
+Get insightsThe processed meeting consists of a transcript divided into chapters and speakers, a selected AI report and tasks with responsibilities and deadlinesTranscriptTasksAI Report
+
+Get insightsThe processed meeting consists of a transcript divided into chapters and speakers, a selected AI report and tasks with responsibilities and deadlines
+
+Get insights
+
+Get insights
+
+Get insights
+
+The processed meeting consists of a transcript divided into chapters and speakers, a selected AI report and tasks with responsibilities and deadlines
+
+The processed meeting consists of a transcript divided into chapters and speakers, a selected AI report and tasks with responsibilities and deadlines
+
+TranscriptTasksAI Report
+
+Transcript
+
+Transcript
+
+Transcript
+
+Tasks
+
+Tasks
+
+Tasks
+
+AI Report
+
+AI Report
+
+AI Report
+
+Edit and shareRename the speakers and edit the transcript. The final report can be sent to the team by email or downloaded in the desired formatDOCXMDJSONPDF
+
+Edit and shareRename the speakers and edit the transcript. The final report can be sent to the team by email or downloaded in the desired formatDOCXMDJSONPDF
+
+Edit and shareRename the speakers and edit the transcript. The final report can be sent to the team by email or downloaded in the desired formatDOCXMDJSONPDF
+
+Edit and shareRename the speakers and edit the transcript. The final report can be sent to the team by email or downloaded in the desired format
+
+Edit and share
+
+Edit and share
+
+Edit and share
+
+Rename the speakers and edit the transcript. The final report can be sent to the team by email or downloaded in the desired format
+
+Rename the speakers and edit the transcript. The final report can be sent to the team by email or downloaded in the desired format
+
+DOCXMDJSONPDF
+
+DOCX
+
+DOCX
+
+DOCX
+
+DOCX
+
+MD
+
+MD
+
+MD
+
+MD
+
+JSONPDF
+
+JSON
+
+JSON
+
+JSON
+
+PDF
+
+PDF
+
+PDF
+
+AI TemplatesProfessional AI analytics using ready-made templatesAI reports can be useful for gaining insights from interviews, assessing the performance of sales managers, and streamlining teamwork.Default meetingHR intervewSales meetingSales coachResearchTeam syncDefault meetingSample reportSuper summaryA sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.Summary of the topicsSprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and passwordAction itemsInclude all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)
+
+AI TemplatesProfessional AI analytics using ready-made templatesAI reports can be useful for gaining insights from interviews, assessing the performance of sales managers, and streamlining teamwork.
+
+AI Templates
+
+AI Templates
+
+AI Templates
+
+Professional AI analytics using ready-made templates
+
+Professional AI analytics using ready-made templates
+
+AI reports can be useful for gaining insights from interviews, assessing the performance of sales managers, and streamlining teamwork.
+
+AI reports can be useful for gaining insights from interviews, assessing the performance of sales managers, and streamlining teamwork.
+
+Default meetingHR intervewSales meetingSales coachResearchTeam syncDefault meetingSample reportSuper summaryA sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.Summary of the topicsSprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and passwordAction itemsInclude all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)
+
+Default meetingHR intervewSales meetingSales coachResearchTeam syncDefault meetingSample reportSuper summaryA sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.Summary of the topicsSprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and passwordAction itemsInclude all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)
+
+Default meetingHR intervewSales meetingSales coachResearchTeam syncDefault meetingSample reportSuper summaryA sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.Summary of the topicsSprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and passwordAction itemsInclude all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)
+
+Default meetingHR intervewSales meetingSales coachResearchTeam sync
+
+Default meeting
+
+Default meeting
+
+Default meeting
+
+Default meeting
+
+HR intervew
+
+HR intervew
+
+HR intervew
+
+HR intervew
+
+Sales meeting
+
+Sales meeting
+
+Sales meeting
+
+Sales meeting
+
+Sales coach
+
+Sales coach
+
+Sales coach
+
+Sales coach
+
+Research
+
+Research
+
+Research
+
+Research
+
+Team sync
+
+Team sync
+
+Team sync
+
+Team sync
+
+Default meetingSample reportSuper summaryA sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.Summary of the topicsSprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and passwordAction itemsInclude all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)
+
+Default meetingSample reportSuper summaryA sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.Summary of the topicsSprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and passwordAction itemsInclude all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)
+
+Default meetingSample report
+
+Default meetingSample report
+
+Default meeting
+
+Default meeting
+
+Sample report
+
+Sample report
+
+Super summaryA sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.Summary of the topicsSprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and passwordAction itemsInclude all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)
+
+Super summaryA sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.
+
+Super summary
+
+Super summary
+
+A sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.
+
+A sprint review meeting was held to discuss the results of the latest sprint for the marketplace project. The main goal of this sprint was to provide user login access, and three user stories were presented related to user authentication, password visibility, and user registration. Stakeholders suggested adding email verification.
+
+Summary of the topicsSprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and password
+
+Summary of the topics
+
+Summary of the topics
+
+Sprint goals and achievementsThe sprint goal of providing access to the marketplace application has been achievedThe login and registration functions have been successfully implementedUser stories and implemented featuresA user history has been implemented for existing usersA registration function has been developed for new users, including fields for full name, email address, and password
+
+Sprint goals and achievements
+
+The sprint goal of providing access to the marketplace application has been achieved
+
+The login and registration functions have been successfully implemented
+
+User stories and implemented features
+
+A user history has been implemented for existing users
+
+A registration function has been developed for new users, including fields for full name, email address, and password
+
+Action itemsInclude all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)
+
+Action items
+
+Action items
+
+Include all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)
+
+Include all team members in the email mailing list for scheduled maintenance notifications. (Responsible: Sergey)
+
+Discuss with interested parties the importance of adding the company logo to different pages. (Responsible: Kostya)
+
+"It is very useful when you need to record verbal agreements, changes, ideas for content, and in general, if you want to refer back to the conversation later. It saves a lot of time and makes online communication easier"Pavel OsokinFounder minders.vcGet started for Free
+
+"It is very useful when you need to record verbal agreements, changes, ideas for content, and in general, if you want to refer back to the conversation later. It saves a lot of time and makes online communication easier"Pavel OsokinFounder minders.vcGet started for Free
+
+"It is very useful when you need to record verbal agreements, changes, ideas for content, and in general, if you want to refer back to the conversation later. It saves a lot of time and makes online communication easier"Pavel OsokinFounder minders.vc
+
+"It is very useful when you need to record verbal agreements, changes, ideas for content, and in general, if you want to refer back to the conversation later. It saves a lot of time and makes online communication easier"
+
+"It is very useful when you need to record verbal agreements, changes, ideas for content, and in general, if you want to refer back to the conversation later. It saves a lot of time and makes online communication easier"
+
+"It is very useful when you need to record verbal agreements, changes, ideas for content, and in general, if you want to refer back to the conversation later. It saves a lot of time and makes online communication easier"
+
+Pavel OsokinFounder minders.vc
+
+Pavel OsokinFounder minders.vc
+
+Pavel Osokin
+
+Pavel Osokin
+
+Pavel Osokin
+
+Founder minders.vc
+
+Founder minders.vc
+
+Founder minders.vc
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+TranscriptAudio & Video Transcription in 100+ languages. Powered by AIWe will convert the recording into a detailed transcript in a few minutes. Let's take into account punctuation marks, Anglicisms and complex terms. We will divide it into participants and chapters. Let's remove noises and parasitic wordsEmmanuel1:54Michael1:54Giovanni1:54Definition and division into speakersYou can specify the number of speakers when adding a meeting so that the result is more accurate你好！¡Hola!हाय!Hello!Привет!Bonjour!안녕!Hallo!こんにちは!Ciao!مرحبا!Olá!Chào!Merhaba!Hallå!Բարեւ ձեզ!Сәлем!سلام!Привіт!Tere!Здравей!Sziasztok!Γεια!Cześć!Ahoj!More than 70 languagesWe support processing in 73 languages, this does not affect the speed and quality of the resultHello!i meanuhhhbut likewell anywaysbut you knowRemove filler wordsInstantly cut all your "ums", "uhs" and other filler words. You'll save hoursSuper sonic infrastructureWe can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutesStudio soundBefore processing, we use a special algorithm to remove noise and unwanted sounds from the audio track
+
+TranscriptAudio & Video Transcription in 100+ languages. Powered by AIWe will convert the recording into a detailed transcript in a few minutes. Let's take into account punctuation marks, Anglicisms and complex terms. We will divide it into participants and chapters. Let's remove noises and parasitic wordsEmmanuel1:54Michael1:54Giovanni1:54Definition and division into speakersYou can specify the number of speakers when adding a meeting so that the result is more accurate你好！¡Hola!हाय!Hello!Привет!Bonjour!안녕!Hallo!こんにちは!Ciao!مرحبا!Olá!Chào!Merhaba!Hallå!Բարեւ ձեզ!Сәлем!سلام!Привіт!Tere!Здравей!Sziasztok!Γεια!Cześć!Ahoj!More than 70 languagesWe support processing in 73 languages, this does not affect the speed and quality of the resultHello!i meanuhhhbut likewell anywaysbut you knowRemove filler wordsInstantly cut all your "ums", "uhs" and other filler words. You'll save hoursSuper sonic infrastructureWe can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutesStudio soundBefore processing, we use a special algorithm to remove noise and unwanted sounds from the audio track
+
+TranscriptAudio & Video Transcription in 100+ languages. Powered by AIWe will convert the recording into a detailed transcript in a few minutes. Let's take into account punctuation marks, Anglicisms and complex terms. We will divide it into participants and chapters. Let's remove noises and parasitic words
+
+Transcript
+
+Transcript
+
+Transcript
+
+Audio & Video Transcription in 100+ languages. Powered by AI
+
+Audio & Video Transcription in 100+ languages. Powered by AI
+
+Audio & Video Transcription in 100+ languages. Powered by AI
+
+We will convert the recording into a detailed transcript in a few minutes. Let's take into account punctuation marks, Anglicisms and complex terms. We will divide it into participants and chapters. Let's remove noises and parasitic words
+
+We will convert the recording into a detailed transcript in a few minutes. Let's take into account punctuation marks, Anglicisms and complex terms. We will divide it into participants and chapters. Let's remove noises and parasitic words
+
+We will convert the recording into a detailed transcript in a few minutes. Let's take into account punctuation marks, Anglicisms and complex terms. We will divide it into participants and chapters. Let's remove noises and parasitic words
+
+Emmanuel1:54Michael1:54Giovanni1:54Definition and division into speakersYou can specify the number of speakers when adding a meeting so that the result is more accurate你好！¡Hola!हाय!Hello!Привет!Bonjour!안녕!Hallo!こんにちは!Ciao!مرحبا!Olá!Chào!Merhaba!Hallå!Բարեւ ձեզ!Сәлем!سلام!Привіт!Tere!Здравей!Sziasztok!Γεια!Cześć!Ahoj!More than 70 languagesWe support processing in 73 languages, this does not affect the speed and quality of the resultHello!i meanuhhhbut likewell anywaysbut you knowRemove filler wordsInstantly cut all your "ums", "uhs" and other filler words. You'll save hoursSuper sonic infrastructureWe can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutesStudio soundBefore processing, we use a special algorithm to remove noise and unwanted sounds from the audio track
+
+Emmanuel1:54Michael1:54Giovanni1:54Definition and division into speakersYou can specify the number of speakers when adding a meeting so that the result is more accurate你好！¡Hola!हाय!Hello!Привет!Bonjour!안녕!Hallo!こんにちは!Ciao!مرحبا!Olá!Chào!Merhaba!Hallå!Բարեւ ձեզ!Сәлем!سلام!Привіт!Tere!Здравей!Sziasztok!Γεια!Cześć!Ahoj!More than 70 languagesWe support processing in 73 languages, this does not affect the speed and quality of the resultHello!
+
+Emmanuel1:54Michael1:54Giovanni1:54Definition and division into speakersYou can specify the number of speakers when adding a meeting so that the result is more accurate
+
+Emmanuel1:54Michael1:54Giovanni1:54
+
+Emmanuel1:54
+
+Emmanuel1:54
+
+Emmanuel
+
+Emmanuel
+
+1:54
+
+1:54
+
+Michael1:54
+
+Michael1:54
+
+Michael
+
+Michael
+
+1:54
+
+1:54
+
+Giovanni1:54
+
+Giovanni1:54
+
+Giovanni
+
+Giovanni
+
+1:54
+
+1:54
+
+Definition and division into speakersYou can specify the number of speakers when adding a meeting so that the result is more accurate
+
+Definition and division into speakers
+
+Definition and division into speakers
+
+You can specify the number of speakers when adding a meeting so that the result is more accurate
+
+You can specify the number of speakers when adding a meeting so that the result is more accurate
+
+你好！¡Hola!हाय!Hello!Привет!Bonjour!안녕!Hallo!こんにちは!Ciao!مرحبا!Olá!Chào!Merhaba!Hallå!Բարեւ ձեզ!Сәлем!سلام!Привіт!Tere!Здравей!Sziasztok!Γεια!Cześć!Ahoj!More than 70 languagesWe support processing in 73 languages, this does not affect the speed and quality of the resultHello!
+
+你好！¡Hola!हाय!Hello!Привет!Bonjour!안녕!Hallo!こんにちは!Ciao!مرحبا!Olá!Chào!Merhaba!Hallå!Բարեւ ձեզ!Сәлем!سلام!Привіт!Tere!Здравей!Sziasztok!Γεια!Cześć!Ahoj!
+
+你好！¡Hola!हाय!Hello!Привет!
+
+你好！
+
+你好！
+
+你好！
+
+¡Hola!
+
+¡Hola!
+
+¡Hola!
+
+हाय!
+
+हाय!
+
+हाय!
+
+Hello!
+
+Hello!
+
+Hello!
+
+Привет!
+
+Привет!
+
+Привет!
+
+Bonjour!안녕!Hallo!こんにちは!Ciao!
+
+Bonjour!
+
+Bonjour!
+
+Bonjour!
+
+안녕!
+
+안녕!
+
+안녕!
+
+Hallo!
+
+Hallo!
+
+Hallo!
+
+こんにちは!
+
+こんにちは!
+
+こんにちは!
+
+Ciao!
+
+Ciao!
+
+Ciao!
+
+مرحبا!Olá!Chào!Merhaba!Hallå!
+
+مرحبا!
+
+مرحبا!
+
+مرحبا!
+
+Olá!
+
+Olá!
+
+Olá!
+
+Chào!
+
+Chào!
+
+Chào!
+
+Merhaba!
+
+Merhaba!
+
+Merhaba!
+
+Hallå!
+
+Hallå!
+
+Hallå!
+
+Բարեւ ձեզ!Сәлем!سلام!Привіт!Tere!
+
+Բարեւ ձեզ!
+
+Բարեւ ձեզ!
+
+Բարեւ ձեզ!
+
+Сәлем!
+
+Сәлем!
+
+Сәлем!
+
+سلام!
+
+سلام!
+
+سلام!
+
+Привіт!
+
+Привіт!
+
+Привіт!
+
+Tere!
+
+Tere!
+
+Tere!
+
+Здравей!Sziasztok!Γεια!Cześć!Ahoj!
+
+Здравей!
+
+Здравей!
+
+Здравей!
+
+Sziasztok!
+
+Sziasztok!
+
+Sziasztok!
+
+Γεια!
+
+Γεια!
+
+Γεια!
+
+Cześć!
+
+Cześć!
+
+Cześć!
+
+Ahoj!
+
+Ahoj!
+
+Ahoj!
+
+More than 70 languagesWe support processing in 73 languages, this does not affect the speed and quality of the result
+
+More than 70 languages
+
+More than 70 languages
+
+We support processing in 73 languages, this does not affect the speed and quality of the result
+
+We support processing in 73 languages, this does not affect the speed and quality of the result
+
+Hello!
+
+Hello!
+
+Hello!
+
+Hello!
+
+Hello!
+
+i meanuhhhbut likewell anywaysbut you knowRemove filler wordsInstantly cut all your "ums", "uhs" and other filler words. You'll save hoursSuper sonic infrastructureWe can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutesStudio soundBefore processing, we use a special algorithm to remove noise and unwanted sounds from the audio track
+
+i meanuhhhbut likewell anywaysbut you knowRemove filler wordsInstantly cut all your "ums", "uhs" and other filler words. You'll save hours
+
+i meanuhhhbut likewell anywaysbut you know
+
+i meanuhhhbut likewell anywaysbut you know
+
+i meanuhhhbut likewell anywaysbut you know
+
+i meanuhhhbut likewell anywaysbut you know
+
+i meanuhhhbut likewell anywaysbut you know
+
+i mean
+
+i mean
+
+i mean
+
+i mean
+
+uhhh
+
+uhhh
+
+uhhh
+
+uhhh
+
+but likewell anyways
+
+but like
+
+but like
+
+but like
+
+well anyways
+
+well anyways
+
+well anyways
+
+but you know
+
+but you know
+
+but you know
+
+but you know
+
+Remove filler wordsInstantly cut all your "ums", "uhs" and other filler words. You'll save hours
+
+Remove filler words
+
+Remove filler words
+
+Remove filler words
+
+Instantly cut all your "ums", "uhs" and other filler words. You'll save hours
+
+Instantly cut all your "ums", "uhs" and other filler words. You'll save hours
+
+Super sonic infrastructureWe can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutes
+
+Super sonic infrastructureWe can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutes
+
+Super sonic infrastructureWe can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutes
+
+Super sonic infrastructure
+
+Super sonic infrastructure
+
+We can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutes
+
+We can process quickly. An hour-long meeting can be turned into a transcript in just 5 minutes
+
+Studio soundBefore processing, we use a special algorithm to remove noise and unwanted sounds from the audio track
+
+Studio soundBefore processing, we use a special algorithm to remove noise and unwanted sounds from the audio track
+
+Studio sound
+
+Studio sound
+
+Before processing, we use a special algorithm to remove noise and unwanted sounds from the audio track
+
+Before processing, we use a special algorithm to remove noise and unwanted sounds from the audio track
+
+"We jumped right into using transcription. No question about it, we had to transcribe the video because it's a must, it makes the work easier and saves time"Alyona Fassalova Product designerGet started for Free
+
+"We jumped right into using transcription. No question about it, we had to transcribe the video because it's a must, it makes the work easier and saves time"Alyona Fassalova Product designerGet started for Free
+
+"We jumped right into using transcription. No question about it, we had to transcribe the video because it's a must, it makes the work easier and saves time"Alyona Fassalova Product designer
+
+"We jumped right into using transcription. No question about it, we had to transcribe the video because it's a must, it makes the work easier and saves time"
+
+"We jumped right into using transcription. No question about it, we had to transcribe the video because it's a must, it makes the work easier and saves time"
+
+"We jumped right into using transcription. No question about it, we had to transcribe the video because it's a must, it makes the work easier and saves time"
+
+Alyona Fassalova Product designer
+
+Alyona Fassalova Product designer
+
+Alyona Fassalova
+
+Alyona Fassalova
+
+Alyona Fassalova
+
+Product designer
+
+Product designer
+
+Product designer
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+IntegrationsIntegration with Zoom, Google Meet and other working toolsWe connect to meetings in Zoom or Google meet We can connect your Google Calendar to automatically record your meetings. We also support processing via Telegram bot.You don't need to record meetings anymoreOur bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interfaceSynced up with your calendarConnect Google Calendar so we can automatically sync with all your eventsEverything remains the same, except on TelegramTelegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members
+
+IntegrationsIntegration with Zoom, Google Meet and other working toolsWe connect to meetings in Zoom or Google meet We can connect your Google Calendar to automatically record your meetings. We also support processing via Telegram bot.
+
+Integrations
+
+Integrations
+
+Integrations
+
+Integration with Zoom, Google Meet and other working tools
+
+Integration with Zoom, Google Meet and other working tools
+
+Integration with Zoom, Google Meet and other working tools
+
+We connect to meetings in Zoom or Google meet We can connect your Google Calendar to automatically record your meetings. We also support processing via Telegram bot.
+
+We connect to meetings in Zoom or Google meet We can connect your Google Calendar to automatically record your meetings. We also support processing via Telegram bot.
+
+We connect to meetings in Zoom or Google meet We can connect your Google Calendar to automatically record your meetings. We also support processing via Telegram bot.
+
+You don't need to record meetings anymoreOur bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interfaceSynced up with your calendarConnect Google Calendar so we can automatically sync with all your eventsEverything remains the same, except on TelegramTelegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members
+
+You don't need to record meetings anymoreOur bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interface
+
+You don't need to record meetings anymoreOur bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interface
+
+You don't need to record meetings anymoreOur bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interface
+
+You don't need to record meetings anymoreOur bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interface
+
+You don't need to record meetings anymore
+
+You don't need to record meetings anymore
+
+Our bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interface
+
+Our bot will join your meeting and take notes for you. All your meetings will be saved as transcripts with tasks and a brief summary in a handy interface
+
+Synced up with your calendarConnect Google Calendar so we can automatically sync with all your events
+
+Synced up with your calendarConnect Google Calendar so we can automatically sync with all your events
+
+Synced up with your calendarConnect Google Calendar so we can automatically sync with all your events
+
+Synced up with your calendarConnect Google Calendar so we can automatically sync with all your events
+
+Synced up with your calendar
+
+Synced up with your calendar
+
+Connect Google Calendar so we can automatically sync with all your events
+
+Connect Google Calendar so we can automatically sync with all your events
+
+Everything remains the same, except on TelegramTelegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members
+
+Everything remains the same, except on TelegramTelegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members
+
+Everything remains the same, except on TelegramTelegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members
+
+Everything remains the same, except on TelegramTelegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members
+
+Everything remains the same, except on Telegram
+
+Everything remains the same, except on Telegram
+
+Telegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members
+
+Telegram bot with full web app functionality. You can add this bot to your group chat so all notifications are automatically sent to your team members
+
+"So, I tried it out myself first, and then I brought it to work. It's pretty handy for that kind of thing, since there are a ton of meetings. Man, it's a life-saver, you know? It cuts down on all the note-taking, meeting minutes, and all that stuff."Dzis-Voinarovskii Fedor Lead Product ManagerGet started for Free
+
+"So, I tried it out myself first, and then I brought it to work. It's pretty handy for that kind of thing, since there are a ton of meetings. Man, it's a life-saver, you know? It cuts down on all the note-taking, meeting minutes, and all that stuff."Dzis-Voinarovskii Fedor Lead Product ManagerGet started for Free
+
+"So, I tried it out myself first, and then I brought it to work. It's pretty handy for that kind of thing, since there are a ton of meetings. Man, it's a life-saver, you know? It cuts down on all the note-taking, meeting minutes, and all that stuff."Dzis-Voinarovskii Fedor Lead Product Manager
+
+"So, I tried it out myself first, and then I brought it to work. It's pretty handy for that kind of thing, since there are a ton of meetings. Man, it's a life-saver, you know? It cuts down on all the note-taking, meeting minutes, and all that stuff."
+
+"So, I tried it out myself first, and then I brought it to work. It's pretty handy for that kind of thing, since there are a ton of meetings. Man, it's a life-saver, you know? It cuts down on all the note-taking, meeting minutes, and all that stuff."
+
+"So, I tried it out myself first, and then I brought it to work. It's pretty handy for that kind of thing, since there are a ton of meetings. Man, it's a life-saver, you know? It cuts down on all the note-taking, meeting minutes, and all that stuff."
+
+Dzis-Voinarovskii Fedor Lead Product Manager
+
+Dzis-Voinarovskii Fedor Lead Product Manager
+
+Dzis-Voinarovskii Fedor
+
+Dzis-Voinarovskii Fedor
+
+Dzis-Voinarovskii Fedor
+
+Lead Product Manager
+
+Lead Product Manager
+
+Lead Product Manager
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+Protection in every directionProtecting user data is our priority. We use the most advanced security measures availableEncryptionThe transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithmAccess & Permissions All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyoneAutomatic & Secure Backups Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocols
+
+Protection in every directionProtecting user data is our priority. We use the most advanced security measures availableEncryptionThe transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithmAccess & Permissions All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyoneAutomatic & Secure Backups Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocols
+
+Protection in every directionProtecting user data is our priority. We use the most advanced security measures available
+
+Protection in every directionProtecting user data is our priority. We use the most advanced security measures available
+
+Protection in every direction
+
+Protection in
+
+every direction
+
+Protecting user data is our priority. We use the most advanced security measures available
+
+Protecting user data is our priority. We use the most advanced security measures available
+
+Protecting user data is our priority. We use the most advanced security measures available
+
+EncryptionThe transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithmAccess & Permissions All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyoneAutomatic & Secure Backups Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocols
+
+EncryptionThe transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithm
+
+EncryptionThe transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithm
+
+Encryption
+
+Encryption
+
+Encryption
+
+The transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithm
+
+The transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithm
+
+The transmitted data is encrypted using TLS 1.2+, and when stored, using the standard AES-256 algorithm
+
+Access & Permissions All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyone
+
+Access & Permissions All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyone
+
+Access & Permissions
+
+Access & Permissions
+
+Access & Permissions
+
+All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyone
+
+All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyone
+
+All accounts have authentication requirements to protect the data in your personal account. We do not share your data with anyone
+
+Automatic & Secure Backups Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocols
+
+Automatic & Secure Backups Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocols
+
+Automatic & Secure Backups
+
+Automatic & Secure Backups
+
+Automatic & Secure Backups
+
+Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocols
+
+Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocols
+
+Data is automatically stored on our servers through cloud backups with advanced encryption and reliable storage protocols
+
+Try mymeet in action today. It is Free.Get started for Free180 minutes for freeNo credit card neededAll data is protected
+
+Try mymeet in action today. It is Free.Get started for Free180 minutes for freeNo credit card neededAll data is protected
+
+Try mymeet in action today. It is Free.Get started for Free180 minutes for freeNo credit card neededAll data is protected
+
+Try mymeet in action today. It is Free.Get started for Free180 minutes for freeNo credit card neededAll data is protected
+
+Try mymeet in action today. It is Free.Get started for Free180 minutes for freeNo credit card neededAll data is protected
+
+Try mymeet in action today. It is Free.Get started for Free
+
+Try mymeet in action today. It is Free.
+
+Try mymeet in action today.
+
+It is Free.
+
+Get started for Free
+
+Get started for Free
+
+Get started for Free
+
+180 minutes for freeNo credit card neededAll data is protected
+
+180 minutes for freeNo credit card needed
+
+180 minutes for free
+
+180 minutes for free
+
+180 minutes for free
+
+180 minutes for free
+
+No credit card needed
+
+No credit card needed
+
+No credit card needed
+
+No credit card needed
+
+All data is protected
+
+All data is protected
+
+All data is protected
+
+All data is protected
+
+Let's have a conversationhello@mymeet.aiProductPricingFor businessTelegram botAPIResourcesBonus programUpdatesBlogCompanyPrivacyTerms of service©2024 mymeet.aiSelect LanguageEnglishRussian (Russia)English
+
+Let's have a conversationhello@mymeet.aiProductPricingFor businessTelegram botAPIResourcesBonus programUpdatesBlogCompanyPrivacyTerms of service©2024 mymeet.aiSelect LanguageEnglishRussian (Russia)English
+
+Let's have a conversationhello@mymeet.aiProductPricingFor businessTelegram botAPIResourcesBonus programUpdatesBlogCompanyPrivacyTerms of service©2024 mymeet.aiSelect LanguageEnglishRussian (Russia)English
+
+Let's have a conversationhello@mymeet.aiProductPricingFor businessTelegram botAPIResourcesBonus programUpdatesBlogCompanyPrivacyTerms of service©2024 mymeet.aiSelect LanguageEnglishRussian (Russia)English
+
+Let's have a conversationhello@mymeet.aiProductPricingFor businessTelegram botAPIResourcesBonus programUpdatesBlogCompanyPrivacyTerms of service©2024 mymeet.aiSelect LanguageEnglishRussian (Russia)English
+
+Let's have a conversationhello@mymeet.aiProductPricingFor businessTelegram botAPIResourcesBonus programUpdatesBlogCompanyPrivacyTerms of service©2024 mymeet.aiSelect LanguageEnglishRussian (Russia)English
+
+Let's have a conversationhello@mymeet.ai
+
+Let's have a conversation
+
+Let's have a conversation
+
+hello@mymeet.ai
+
+hello@mymeet.ai
+
+hello@mymeet.ai
+
+ProductPricingFor businessTelegram botAPIResourcesBonus programUpdatesBlogCompanyPrivacyTerms of service
+
+ProductPricingFor businessTelegram botAPI
+
+Product
+
+Product
+
+PricingFor businessTelegram botAPI
+
+Pricing
+
+Pricing
+
+For business
+
+For business
+
+Telegram bot
+
+Telegram bot
+
+API
+
+API
+
+ResourcesBonus programUpdatesBlog
+
+ResourcesBonus programUpdatesBlog
+
+Resources
+
+Resources
+
+Bonus programUpdatesBlog
+
+Bonus program
+
+Bonus program
+
+Updates
+
+Updates
+
+Blog
+
+Blog
+
+CompanyPrivacyTerms of service
+
+CompanyPrivacyTerms of service
+
+Company
+
+Company
+
+PrivacyTerms of service
+
+Privacy
+
+Privacy
+
+Terms of service
+
+Terms of service
+
+©2024 mymeet.aiSelect LanguageEnglishRussian (Russia)English
+
+©2024 mymeet.ai
+
+©2024 mymeet.ai
+
+Select LanguageEnglishRussian (Russia)English
+
+Select LanguageEnglishRussian (Russia)English
+
+English
+
+English

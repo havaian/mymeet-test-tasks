@@ -1,4 +1,5 @@
-# mymeet.ai
+# Архитектура MyMeet.AI
+Основной readme файл [тут](../readme.md)
 
 ## Содержание
 - [Node.js сервисы](#nodejs-сервисы-⬆️)
