@@ -1,0 +1,23 @@
+services:
+  task1:
+    build: 
+      context: .
+      dockerfile: Dockerfile.scraper
+    container_name: task1
+    volumes:
+      - ./task_1.ts:/usr/src/app/task_1.ts
+      - ./scraped_texts:/usr/src/app/dist/scraped_texts
+      - ./scraped_images:/usr/src/app/dist/scraped_images
+    environment:
+      - PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true
+      - PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+        reservations:
+          memory: 1G
+
+volumes:
+  scraped_texts:
+  scraped_images:
